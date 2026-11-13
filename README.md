@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=scrape-html-tables-python">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=scrape-html-tables-python">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -91,7 +91,7 @@ With `FUSION_USER` and `FUSION_PASS` set, the download goes through a residentia
 - [python-web-scraping](https://github.com/FusionProxies/python-web-scraping): requests + BeautifulSoup basics
 - [scrape-sitemap-python](https://github.com/FusionProxies/scrape-sitemap-python): get every URL of a site first
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=scrape-html-tables-python) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=scrape-html-tables-python).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=scrape-html-tables-python) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=scrape-html-tables-python).
 
 ## License
 
